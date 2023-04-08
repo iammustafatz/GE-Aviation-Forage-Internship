@@ -10,7 +10,7 @@ The following tasks were completed as part of this project:
 
 - Combined full-flight engine data, part manufacturing data, and airport location data to create a data lake.
 - Created a run chart and key performance indicators (KPI) tables based on simulated aviation data in Tableau.
-- Built a Tableau dashboard to visualize the KPIs. The dashboard can be viewed at [GEAviationKPIDashboard](https://public.tableau.com/views/GEAviationKPIDashboard/GEAviationKPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+- Built a Tableau dashboard to visualize the KPIs. The dashboard can be viewed at [GE Aviation KPI Dashboard](https://public.tableau.com/views/GEAviationKPIDashboard/GEAviationKPIDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ## Technologies Used
 
